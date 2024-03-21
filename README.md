@@ -18,9 +18,10 @@
   
 <div>
 <a href="https://github.com/jumarianobf">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jumarianobf&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=jumarianobf&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jumarianobf&show_icons=true&theme=midnight-purple&count_private=true&include_all_commits=true">
+  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jumarianobf&layout=compact&langs_count=16&theme=midnight-purple%">
 </div>
+<br>
 
   ##
 
