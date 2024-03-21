@@ -1,4 +1,9 @@
-Oiii! Eu sou Julia Mariano, estudante de Análise e Desenvolvimento de Sistemas pela FIAP
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=header"/>
+<p align="center">
+  <h3 align="center">⌨️ sou Julia Mariano, estudante de Análise e Desenvolvimento de Sistemas pela FIAP⌨️</h3>
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack web and app developer; Studying Systems Development; Always learning new things!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000&color=9304F7&" alt="Ruan Cláudio">
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Julia-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
